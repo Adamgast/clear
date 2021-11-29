@@ -1037,11 +1037,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .company__label {
-  margin-bottom: 25px;
   font-size: 24px;
   line-height: 31px;
   max-width: 150px;
-  margin: 0 auto;
+  margin: 0 auto 25px;
 }
 
 .company__list {
@@ -1103,8 +1102,6 @@ h1, h2, h3, h4, h5, h6 {
 
   .company__label {
     margin-bottom: 25px;
-    font-size: 16px;
-    line-height: 20px;
   }
 
   .company__title {
