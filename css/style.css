@@ -220,6 +220,9 @@ h1, h2, h3, h4, h5, h6 {
 	}
 }
 @media (max-width: $md3+px){
+	.footer {
+		margin-bottom: 0px;
+	}
 	.footer__footer {
 		display: block;
 	}
