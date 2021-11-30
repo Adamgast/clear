@@ -1057,18 +1057,6 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 25px;
 }
 
-.company__footer {
-  display: none;
-}
-
-.company__phone {
-  font-size: 24px;
-  line-height: 31px;
-  text-align: center;
-  color: #FFFFFF;
-  text-shadow: 4px 4px 6px #000000;
-}
-
 .company__bg {
   position: absolute;
   top: 0;
